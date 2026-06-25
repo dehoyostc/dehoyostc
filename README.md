@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm T.C. 👋
 
-<!--
-**dehoyostc/dehoyostc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Creative Director and Product Designer exploring the future of AI communication.
 
-Here are some ideas to get you started:
+I'm currently building:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ACP (Agent Communication Protocol)
+- CARP (Confidence-Aware Representation Protocol)
+- Jerry — a personal AI representative capable of recovering profiles, negotiating disclosure, and evaluating compatibility.
+
+## Current Focus
+
+Creating open standards for trustworthy, privacy-preserving communication between AI agents acting on behalf of people and organizations.
+
+## Featured Project
+
+⭐ Agent Communication Protocol
